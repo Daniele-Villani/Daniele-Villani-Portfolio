@@ -20,10 +20,10 @@ I am focused on building a solid foundation in cybersecurity principles, threat 
 
 ## Skills
 
-| Project                        | Skills/Knowledge Gained                                                                           |
-| ------------------------------ | ------------------------------------------------------------------------------------------------- |
-| 1 - Home Lab                   | `Firewalls`, `TCP/IP`,`Rules`,`DNS` ,`Network Architechture`,  `CLI`                              |
-| 2 - CTFs                       | `Penetration testing`, `CLI`, `Linux`, `Vulnerabilities`, `Web Apps`, `Permissions`, `Privileges` |
+| Project                                                                                                             | Skills/Knowledge Gained                                                                           |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 1 - [Home Lab](https://github.com/Daniele-Villani/Daniele-Villani-Portfolio/tree/main/Home%20Lab)                   | `Firewalls`, `TCP/IP`,`Rules`,`DNS` ,`Network Architechture`,  `CLI`                              |
+| 2 - [CTFs](https://github.com/Daniele-Villani/Daniele-Villani-Portfolio/tree/main/CTF%20walkthroughs)               | `Penetration testing`, `CLI`, `Linux`, `Vulnerabilities`, `Web Apps`, `Permissions`, `Privileges` |
 
 
 ## Tools
